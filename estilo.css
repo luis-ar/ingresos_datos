@@ -44,3 +44,8 @@
   align-items: center;
   border: 3px solid black;
 }
+@media (max-width: 500px) {
+  .datos {
+    font-size: 15px;
+  }
+}
